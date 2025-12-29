@@ -1,4 +1,4 @@
-# Otávio Henrique Moraes Cruz
+# 👋 Olá, I'm Otávio Cruz
 
 Desenvolvedor Java | Estudante de Engenharia da Computação
 
@@ -6,7 +6,7 @@ Desenvolvedor Java | Estudante de Engenharia da Computação
 
 ## Sobre
 
-Desenvolvedor focado em backend e IoT, apaixonado por criar soluções tecnológicas com impacto social.
+Desenvolvedor focado em backend e IoT.
 
 🎓 Engenharia da Computação @ UNASP  
 💻 Java • Spring Boot • SQL • Arduino  
