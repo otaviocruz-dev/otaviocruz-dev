@@ -1,4 +1,4 @@
-# 👋 Olá, I'm Otávio Cruz
+# 👋 Olá, Eu sou Otávio Cruz
 
 Desenvolvedor Java | Estudante de Engenharia da Computação
 
